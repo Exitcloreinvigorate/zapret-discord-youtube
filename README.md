@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 > <a href=""></a><a href="https://github.com/Exitcloreinvigorate zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
+# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 > <a href=""></a><a href="https://github.com/Exitcloreinvigorate zapret-discord-youtube">zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 
 **NEW**: Ускорение Telegram Desktop - @diz_niz
 Альтернатива https://github.com/bol-van/zapret-win-bundle  
